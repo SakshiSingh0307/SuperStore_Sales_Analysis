@@ -1,2 +1,2 @@
-# SuperStore_Sales_Analysis-
+# SuperStore_Sales_Analysis
 AWS QuickSight Analysis 
